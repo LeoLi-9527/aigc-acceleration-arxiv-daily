@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.15
+### Automatically Updated on 2026.11.16
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Measured from the feed: the unsustainable growth of AI video generation**|Tristan Coignion et.al.|[2611.17938](http://arxiv.org/abs/2611.17938)|null|
 |**2026-11-12**|**TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention**|Hung Nguyen et.al.|[2611.16897](http://arxiv.org/abs/2611.16897)|null|
 |**2026-11-11**|**TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation**|Libo Zhu et.al.|[2611.15983](http://arxiv.org/abs/2611.15983)|null|
 |**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
@@ -474,6 +475,17 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Restoring Diversity in Distilled Image and Video Generators by Probing Activations**|Furkan Horoz et.al.|[2611.18550](http://arxiv.org/abs/2611.18550)|null|
+|**2026-11-13**|**Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift**|Rishii Kumar Singh et.al.|[2611.18429](http://arxiv.org/abs/2611.18429)|null|
+|**2026-11-13**|**DecompJSCC: Joint Source-Channel Coding With Decoupled SNR and Rate Adaptation**|Yunhao Liu et.al.|[2611.18379](http://arxiv.org/abs/2611.18379)|null|
+|**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|null|
+|**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|null|
+|**2026-11-13**|**BeST: Beta splatted tomography for direct reconstruction from coherent imaging measurements**|Johannes Gruen et.al.|[2611.17982](http://arxiv.org/abs/2611.17982)|null|
+|**2026-11-13**|**Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation**|Matheus Pereira et.al.|[2611.17974](http://arxiv.org/abs/2611.17974)|null|
+|**2026-11-13**|**DiffusionSSD: Achieving Extreme Visual Compression with Dual-stage Diffusion and Cross-level Near-Data Processing**|Kuai Yu et.al.|[2611.17908](http://arxiv.org/abs/2611.17908)|null|
+|**2026-11-13**|**X-Strata: Separating Aneurysms and Overlapping Vessels into Layers from 2D X-ray Angiography**|Zhihong Wen et.al.|[2611.17743](http://arxiv.org/abs/2611.17743)|null|
+|**2026-11-13**|**A Tumour-Aware Multimodal Framework for Explainable Prediction of IDH Mutation in Gliomas from Multi-Sequence MRI**|Tahsien Al-Quraishi et.al.|[2611.17712](http://arxiv.org/abs/2611.17712)|null|
+|**2026-11-12**|**A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging**|Andrea Borghesi et.al.|[2611.17468](http://arxiv.org/abs/2611.17468)|null|
 |**2026-11-12**|**Data Archive for 2D and 3D Electrical Impedance Tomography with moderate conductivity contrast phantoms**|S. J. Hamilton et.al.|[2611.17225](http://arxiv.org/abs/2611.17225)|null|
 |**2026-11-12**|**TuMAP: A Dual-View, Morphotype-Aware Pathomics Pipeline for Quantifying Renal Tubular Remodeling**|Ruijie Wu et.al.|[2611.17104](http://arxiv.org/abs/2611.17104)|null|
 |**2026-11-12**|**Automated PD-L1 Tumor Proportion Scoring with Uncertainty-Guided Triage in Non-Small Cell Lung Cancer**|Kesi Xu et.al.|[2611.16907](http://arxiv.org/abs/2611.16907)|null|
