@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.16
+### Automatically Updated on 2026.11.17
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
+|**2026-11-14**|**Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory**|Pengyu Chen et.al.|[2611.19215](http://arxiv.org/abs/2611.19215)|null|
 |**2026-11-13**|**Measured from the feed: the unsustainable growth of AI video generation**|Tristan Coignion et.al.|[2611.17938](http://arxiv.org/abs/2611.17938)|null|
 |**2026-11-12**|**TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention**|Hung Nguyen et.al.|[2611.16897](http://arxiv.org/abs/2611.16897)|null|
 |**2026-11-11**|**TRACE: Trajectory Synchronization for Training-Free Resolution Extension in Video Generation**|Libo Zhu et.al.|[2611.15983](http://arxiv.org/abs/2611.15983)|null|
@@ -475,6 +477,26 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?**|Sakib Ahmed et.al.|[2611.21532](http://arxiv.org/abs/2611.21532)|null|
+|**2026-11-16**|**Investigating the Benefit of Transfer Learning from the Locus Coeruleus for Substantia Nigra Pars Compacta Segmentation**|Tayebeh Bahador et.al.|[2611.21229](http://arxiv.org/abs/2611.21229)|null|
+|**2026-11-16**|**Scribble Once, Segment the Sequence: Bidirectional Temporal Consistency for Weakly Supervised Segmentation in Echocardiography Sequences**|Vincent Li Weixin et.al.|[2611.21137](http://arxiv.org/abs/2611.21137)|null|
+|**2026-11-16**|**Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design**|Majun Zhang et.al.|[2611.21029](http://arxiv.org/abs/2611.21029)|null|
+|**2026-11-16**|**SciWorldBench: Do Video World Models Really Understand Scientific Experiments?**|Xue Yang et.al.|[2611.20899](http://arxiv.org/abs/2611.20899)|null|
+|**2026-11-16**|**Correspondence-Free Camera Pose Estimation by Matching Moments**|Subhransu S. Bhattacharjee et.al.|[2611.20797](http://arxiv.org/abs/2611.20797)|null|
+|**2026-11-16**|**Dynamic infrared thermography and computed tomography angiography fusion for DIEP flap perforator selection: a novel measurement system**|Warre Clarys et.al.|[2611.20545](http://arxiv.org/abs/2611.20545)|null|
+|**2026-11-16**|**VoxSAOR: Semantic-Aware Occupancy Robustification via Aleatoric Uncertainty Modeling**|Mengfei Duan et.al.|[2611.20507](http://arxiv.org/abs/2611.20507)|null|
+|**2026-11-16**|**Signs of Wear: Evaluating Intelligent Speed Assistance Under Synthetic Adverse Conditions**|Johannes Fabian Hahn et.al.|[2611.20382](http://arxiv.org/abs/2611.20382)|null|
+|**2026-11-15**|**Beyond AUC: Do Mammography Risk Models Predict When Cancer Occurs?**|Svetlana Krasnova et.al.|[2611.20274](http://arxiv.org/abs/2611.20274)|null|
+|**2026-11-15**|**Streaming across viewing conditions - The effect of viewing distance and display luminance on video quality**|Dounia Hammou et.al.|[2611.20226](http://arxiv.org/abs/2611.20226)|null|
+|**2026-11-15**|**Sequential Semantic-Non-Semantic Watermarking: Robustness Against UnMarker Attacks**|Md Ifraham Iqbal et.al.|[2611.20115](http://arxiv.org/abs/2611.20115)|null|
+|**2026-11-15**|**Machine Learning for Near Real-Time Identification of Wildfire Burned Areas**|Khoi Nguyen et.al.|[2611.20036](http://arxiv.org/abs/2611.20036)|null|
+|**2026-11-15**|**Equal Dose, Different Coverage:Tracing Rate and Duration in Image Editing**|Yi Liu et.al.|[2611.19955](http://arxiv.org/abs/2611.19955)|null|
+|**2026-11-14**|**XLSAR-Bench: Towards Extremely Large SAR Imagery Understanding of MLLMs**|La Jiang et.al.|[2611.19364](http://arxiv.org/abs/2611.19364)|null|
+|**2026-11-14**|**Ref-MIL: Plug-and-Play Posterior Refinement for Multiple Instance Learning in QSM-Based Brain Disease Classification**|Ang Gaoa et.al.|[2611.19193](http://arxiv.org/abs/2611.19193)|null|
+|**2026-11-14**|**Zero-shot diffusion image compression with sectioned codebooks and one channel code**|Dinanath Padhya et.al.|[2611.19192](http://arxiv.org/abs/2611.19192)|null|
+|**2026-11-14**|**Midsagittal Corpus Callosum Parameterization: A Framework for Spatially Detailed Diffusion MR Imaging Analysis**|Caio Santana et.al.|[2611.19066](http://arxiv.org/abs/2611.19066)|null|
+|**2026-11-13**|**Probing Where Surprise Happens: Localized Violation-of-Expectation Evaluation of Video World Models**|Yanbin Xu et.al.|[2611.18979](http://arxiv.org/abs/2611.18979)|null|
+|**2026-11-13**|**Learned Regularization for Sparse-View CT: Accuracy, Lesion Detectability and Distribution Shift of a Plug-and-Play Prior against Tuned Total Variation**|Mohammed Abo Oraig et.al.|[2611.18936](http://arxiv.org/abs/2611.18936)|null|
 |**2026-11-13**|**Restoring Diversity in Distilled Image and Video Generators by Probing Activations**|Furkan Horoz et.al.|[2611.18550](http://arxiv.org/abs/2611.18550)|null|
 |**2026-11-13**|**Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift**|Rishii Kumar Singh et.al.|[2611.18429](http://arxiv.org/abs/2611.18429)|null|
 |**2026-11-13**|**DecompJSCC: Joint Source-Channel Coding With Decoupled SNR and Rate Adaptation**|Yunhao Liu et.al.|[2611.18379](http://arxiv.org/abs/2611.18379)|null|
