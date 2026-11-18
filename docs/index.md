@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.17
+### Automatically Updated on 2026.11.18
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**When a Larger Guidance Scale Repairs Text-to-Video Failures and When It Does Not**|Taewon Kang et.al.|[2611.23025](http://arxiv.org/abs/2611.23025)|null|
+|**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|null|
 |**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
 |**2026-11-14**|**Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory**|Pengyu Chen et.al.|[2611.19215](http://arxiv.org/abs/2611.19215)|null|
 |**2026-11-13**|**Measured from the feed: the unsustainable growth of AI video generation**|Tristan Coignion et.al.|[2611.17938](http://arxiv.org/abs/2611.17938)|null|
@@ -477,6 +479,14 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Uncovering the Invisible in Routine Radiology: Cross-Modal Detection of MRI-Verified Soft-Tissue Pathologies from CBCT via Physics-Guided 3D Self-Supervised Learning**|Evgeny Alves Limarenko et.al.|[2611.23042](http://arxiv.org/abs/2611.23042)|null|
+|**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|null|
+|**2026-11-17**|**MedImgAnnotator: batch wise medical image annotation and preprocessing tool**|Ewunate Assaye Kassaw et.al.|[2611.22450](http://arxiv.org/abs/2611.22450)|null|
+|**2026-11-17**|**Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning**|Lixuan He et.al.|[2611.22438](http://arxiv.org/abs/2611.22438)|null|
+|**2026-11-17**|**Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers**|Hansheng Chen et.al.|[2611.22287](http://arxiv.org/abs/2611.22287)|null|
+|**2026-11-17**|**Virtual EMI Receiver Generation (VERGE) for Improved EMI Removal in MRI**|Alexander Mertens et.al.|[2611.22267](http://arxiv.org/abs/2611.22267)|null|
+|**2026-11-16**|**Pathology Randomization for Synthetic Priors and Zero-Shot Detection**|Alexandra G. Roberts et.al.|[2611.21975](http://arxiv.org/abs/2611.21975)|null|
+|**2026-11-16**|**SCAN: Site-Aware Collaborative Privacy-Preserving Adaptation of Vision-Language Models for Neurological Disease Classification**|Nikhil J. Dhinagar et.al.|[2611.21955](http://arxiv.org/abs/2611.21955)|null|
 |**2026-11-16**|**How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?**|Sakib Ahmed et.al.|[2611.21532](http://arxiv.org/abs/2611.21532)|null|
 |**2026-11-16**|**Investigating the Benefit of Transfer Learning from the Locus Coeruleus for Substantia Nigra Pars Compacta Segmentation**|Tayebeh Bahador et.al.|[2611.21229](http://arxiv.org/abs/2611.21229)|null|
 |**2026-11-16**|**Scribble Once, Segment the Sequence: Bidirectional Temporal Consistency for Weakly Supervised Segmentation in Echocardiography Sequences**|Vincent Li Weixin et.al.|[2611.21137](http://arxiv.org/abs/2611.21137)|null|
@@ -2429,6 +2439,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Stochastic Diversity Windows: Diagnosing Noise Influence in Robotic Diffusion Sampling**|Tina Lakhani et.al.|[2611.22743](http://arxiv.org/abs/2611.22743)|null|
 |**2026-11-11**|**DroneDiffusion: Uncertainty-Guided Diffusion Path Planner for UAV Navigation**|Ivan Valuev et.al.|[2611.15277](http://arxiv.org/abs/2611.15277)|null|
 |**2026-11-10**|**Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation**|Yuchen Jiao et.al.|[2611.14328](http://arxiv.org/abs/2611.14328)|null|
 |**2026-11-09**|**Reconstruction of pion polarizabilities in lattice QCD with machine learning**|Hanxing Jiang et.al.|[2611.13117](http://arxiv.org/abs/2611.13117)|null|

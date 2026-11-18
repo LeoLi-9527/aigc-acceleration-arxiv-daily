@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.17
+### Automatically Updated on 2026.11.18
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -29,6 +29,8 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**When a Larger Guidance Scale Repairs Text-to-Video Failures and When It Does Not**|Taewon Kang et.al.|[2611.23025](http://arxiv.org/abs/2611.23025)|null|
+|**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|null|
 |**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
 |**2026-11-14**|**Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory**|Pengyu Chen et.al.|[2611.19215](http://arxiv.org/abs/2611.19215)|null|
 |**2026-11-13**|**Measured from the feed: the unsustainable growth of AI video generation**|Tristan Coignion et.al.|[2611.17938](http://arxiv.org/abs/2611.17938)|null|
@@ -481,12 +483,20 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
 |**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Zhenyu Xie et.al.|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Image-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Uncovering the Invisible in Routine Radiology: Cross-Modal Detection of MRI-Verified Soft-Tissue Pathologies from CBCT via Physics-Guided 3D Self-Supervised Learning**|Evgeny Alves Limarenko et.al.|[2611.23042](http://arxiv.org/abs/2611.23042)|null|
+|**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|null|
+|**2026-11-17**|**MedImgAnnotator: batch wise medical image annotation and preprocessing tool**|Ewunate Assaye Kassaw et.al.|[2611.22450](http://arxiv.org/abs/2611.22450)|null|
+|**2026-11-17**|**Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning**|Lixuan He et.al.|[2611.22438](http://arxiv.org/abs/2611.22438)|null|
+|**2026-11-17**|**Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers**|Hansheng Chen et.al.|[2611.22287](http://arxiv.org/abs/2611.22287)|null|
+|**2026-11-17**|**Virtual EMI Receiver Generation (VERGE) for Improved EMI Removal in MRI**|Alexander Mertens et.al.|[2611.22267](http://arxiv.org/abs/2611.22267)|null|
+|**2026-11-16**|**Pathology Randomization for Synthetic Priors and Zero-Shot Detection**|Alexandra G. Roberts et.al.|[2611.21975](http://arxiv.org/abs/2611.21975)|null|
+|**2026-11-16**|**SCAN: Site-Aware Collaborative Privacy-Preserving Adaptation of Vision-Language Models for Neurological Disease Classification**|Nikhil J. Dhinagar et.al.|[2611.21955](http://arxiv.org/abs/2611.21955)|null|
 |**2026-11-16**|**How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?**|Sakib Ahmed et.al.|[2611.21532](http://arxiv.org/abs/2611.21532)|null|
 |**2026-11-16**|**Investigating the Benefit of Transfer Learning from the Locus Coeruleus for Substantia Nigra Pars Compacta Segmentation**|Tayebeh Bahador et.al.|[2611.21229](http://arxiv.org/abs/2611.21229)|null|
 |**2026-11-16**|**Scribble Once, Segment the Sequence: Bidirectional Temporal Consistency for Weakly Supervised Segmentation in Echocardiography Sequences**|Vincent Li Weixin et.al.|[2611.21137](http://arxiv.org/abs/2611.21137)|null|
@@ -2398,7 +2408,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184](http://arxiv.org/abs/2603.15184)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Video Editing
 
@@ -2437,12 +2447,13 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Diffusion Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Stochastic Diversity Windows: Diagnosing Noise Influence in Robotic Diffusion Sampling**|Tina Lakhani et.al.|[2611.22743](http://arxiv.org/abs/2611.22743)|null|
 |**2026-11-11**|**DroneDiffusion: Uncertainty-Guided Diffusion Path Planner for UAV Navigation**|Ivan Valuev et.al.|[2611.15277](http://arxiv.org/abs/2611.15277)|null|
 |**2026-11-10**|**Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation**|Yuchen Jiao et.al.|[2611.14328](http://arxiv.org/abs/2611.14328)|null|
 |**2026-11-09**|**Reconstruction of pion polarizabilities in lattice QCD with machine learning**|Hanxing Jiang et.al.|[2611.13117](http://arxiv.org/abs/2611.13117)|null|
@@ -2805,7 +2816,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-02**|**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**|Aryan Goyal et.al.|[2603.01686](http://arxiv.org/abs/2603.01686)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Real-time Generation
 
@@ -2845,7 +2856,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-09**|**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**|Lei Wang et.al.|[2603.08258](http://arxiv.org/abs/2603.08258)|null|
 |**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## DiT Acceleration
 
@@ -2867,7 +2878,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2025-08-26**|**Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**|Liding Zhang et.al.|[2508.19168](http://arxiv.org/abs/2508.19168)|null|
 |**2025-05-16**|**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**|Haipeng Fang et.al.|[2505.11707](http://arxiv.org/abs/2505.11707)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 Notes: 
 
