@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.19
+### Automatically Updated on 2026.11.20
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -29,6 +29,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|null|
 |**2026-11-18**|**Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention**|Zhen Huang et.al.|[2611.24479](http://arxiv.org/abs/2611.24479)|null|
 |**2026-11-18**|**Semantic-aware Contrasting with Explicitly Disentangled Representations for AI-Generated Video Detection**|Jiaquan Yu et.al.|[2611.24038](http://arxiv.org/abs/2611.24038)|null|
 |**2026-11-17**|**When a Larger Guidance Scale Repairs Text-to-Video Failures and When It Does Not**|Taewon Kang et.al.|[2611.23025](http://arxiv.org/abs/2611.23025)|null|
@@ -485,12 +486,32 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
 |**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Zhenyu Xie et.al.|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Image-to-Video
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Posterior Matching Distillation**|Hidir Yesiltepe et.al.|[2611.26629](http://arxiv.org/abs/2611.26629)|null|
+|**2026-11-19**|**AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms**|Omoruyi Atekha et.al.|[2611.26625](http://arxiv.org/abs/2611.26625)|null|
+|**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|null|
+|**2026-11-19**|**Susceptibility source separation via Closed-form Alternating Newton-type Optimization**|Ignacio Contreras-Zúñiga et.al.|[2611.26561](http://arxiv.org/abs/2611.26561)|null|
+|**2026-11-19**|**From power to spectrum: an off-the-shelf photodiode turned into a spectrometer by its bias alone**|Roi Yozevitch et.al.|[2611.26532](http://arxiv.org/abs/2611.26532)|null|
+|**2026-11-19**|**Deterministic Temporal Embedding for Calcium Imaging Trace Extraction**|Qi Gao et.al.|[2611.26522](http://arxiv.org/abs/2611.26522)|null|
+|**2026-11-19**|**FFGaussType: Feed-Forward Conversion of Glyph and SVG Geometry into Compact Gaussian Assets**|Haoan Feng et.al.|[2611.26431](http://arxiv.org/abs/2611.26431)|null|
+|**2026-11-19**|**OffBeat: Multicoset Sampling for 4D Capture Beyond the Camera Frame Rate**|Chi-Wei Lee et.al.|[2611.26347](http://arxiv.org/abs/2611.26347)|null|
+|**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Chi-Wei Lee et.al.|[2611.26321](http://arxiv.org/abs/2611.26321)|null|
+|**2026-11-19**|**Physics-Informed Deep Learning for Shear Wave Speed Estimation in MR Elastography**|Stefan Martin et.al.|[2611.26111](http://arxiv.org/abs/2611.26111)|null|
+|**2026-11-19**|**TrajCal: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling**|Junchi Zhang et.al.|[2611.25847](http://arxiv.org/abs/2611.25847)|null|
+|**2026-11-19**|**D3-Cache: Accelerating Diffusion Models with Dynamic Mode Decomposition**|Yanbo Li et.al.|[2611.25689](http://arxiv.org/abs/2611.25689)|null|
+|**2026-11-19**|**MambaLIFT: Reference-Based Mechanism-Aware Attribution for VMamba**|Jintu Kakati et.al.|[2611.25644](http://arxiv.org/abs/2611.25644)|null|
+|**2026-11-19**|**What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks**|Yutao Li et.al.|[2611.25632](http://arxiv.org/abs/2611.25632)|null|
+|**2026-11-19**|**Physical Laws without Physics Loss? Probing Learned Dynamics in Video World Models through Forced Response**|Yutao Li et.al.|[2611.25626](http://arxiv.org/abs/2611.25626)|null|
+|**2026-11-19**|**VidToC: Rethinking Video Token Compression for Multimodal Large Language Models**|Zihan Xiao et.al.|[2611.25574](http://arxiv.org/abs/2611.25574)|null|
+|**2026-11-19**|**Passing NPCR Without Diffusion: Exact Signatures, a Detection Benchmark and an Audit of Published Image Ciphers**|Mua'ad Alfarajat et.al.|[2611.25561](http://arxiv.org/abs/2611.25561)|null|
+|**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548](http://arxiv.org/abs/2611.25548)|null|
+|**2026-11-19**|**Life-IQA+: Boosting Blind Image Quality Assessment via GCN-enhanced Layer Interaction and Flexible Hierarchical Expert Specialization**|Long Tang et.al.|[2611.25510](http://arxiv.org/abs/2611.25510)|null|
+|**2026-11-19**|**Uncertainty-Aware Multimodal Deep Learning for Prediction of Radiation-Induced Xerostomia in Head and Neck Cancer**|Jin Yang et.al.|[2611.25481](http://arxiv.org/abs/2611.25481)|null|
 |**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhaolu Wang et.al.|[2611.24731](http://arxiv.org/abs/2611.24731)|null|
 |**2026-11-18**|**Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention**|Zhen Huang et.al.|[2611.24479](http://arxiv.org/abs/2611.24479)|null|
 |**2026-11-18**|**PhysResponse: Probing the Physics of Video Generation with Controlled Interventions**|Yuhan Li et.al.|[2611.24419](http://arxiv.org/abs/2611.24419)|null|
@@ -2425,7 +2446,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184](http://arxiv.org/abs/2603.15184)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Video Editing
 
@@ -2464,7 +2485,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -2833,7 +2854,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-02**|**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**|Aryan Goyal et.al.|[2603.01686](http://arxiv.org/abs/2603.01686)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Real-time Generation
 
@@ -2873,7 +2894,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2026-03-09**|**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**|Lei Wang et.al.|[2603.08258](http://arxiv.org/abs/2603.08258)|null|
 |**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## DiT Acceleration
 
@@ -2895,7 +2916,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 |**2025-08-26**|**Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic**|Liding Zhang et.al.|[2508.19168](http://arxiv.org/abs/2508.19168)|null|
 |**2025-05-16**|**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration**|Haipeng Fang et.al.|[2505.11707](http://arxiv.org/abs/2505.11707)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 Notes: 
 
