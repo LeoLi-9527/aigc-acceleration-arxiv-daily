@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.22
+### Automatically Updated on 2026.11.23
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion**|Jiajun Chen et.al.|[2611.27063](http://arxiv.org/abs/2611.27063)|null|
 |**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|null|
 |**2026-11-18**|**Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention**|Zhen Huang et.al.|[2611.24479](http://arxiv.org/abs/2611.24479)|null|
 |**2026-11-18**|**Semantic-aware Contrasting with Explicitly Disentangled Representations for AI-Generated Video Detection**|Jiaquan Yu et.al.|[2611.24038](http://arxiv.org/abs/2611.24038)|null|
@@ -482,6 +483,19 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Underwater Spectral Recovery via Multi-View Hyperspectral Imaging**|Jonathan Sterckx et.al.|[2611.27822](http://arxiv.org/abs/2611.27822)|null|
+|**2026-11-20**|**Refrain: Learning Multi-Shot Consistency from Inconsistent References for A $^2$ O Video Generation**|Hongru Yan et.al.|[2611.27806](http://arxiv.org/abs/2611.27806)|null|
+|**2026-11-20**|**Feasibility of Multifrequency Neural Network-Based Wave Inversion in Ultrasound Time-Harmonic Elastography**|Héloïse Bustin et.al.|[2611.27792](http://arxiv.org/abs/2611.27792)|null|
+|**2026-11-20**|**Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models**|Nan Tang et.al.|[2611.27645](http://arxiv.org/abs/2611.27645)|null|
+|**2026-11-20**|**From Tokens to Pixels: Training-Free Guided Upsampling of Frozen CARL Features for Hyperspectral Imaging**|Dominik Fromme et.al.|[2611.27541](http://arxiv.org/abs/2611.27541)|null|
+|**2026-11-20**|**Learned Score-Based Turbo Message Passing for Compressive Image Recovery**|Peihang Li et.al.|[2611.27337](http://arxiv.org/abs/2611.27337)|null|
+|**2026-11-20**|**InterBand-EMG: A Cross-Band Foundation Model for Generalizable Hand-Pose Estimation**|Zongheng Guo et.al.|[2611.27289](http://arxiv.org/abs/2611.27289)|null|
+|**2026-11-20**|**PP-CFG: Polarity-Preserving Guidance for Controllable Few-Step Image and Video Generation**|Junyi He et.al.|[2611.27266](http://arxiv.org/abs/2611.27266)|null|
+|**2026-11-20**|**Dem2TA: Beyond Pixels, Towards Perception**|Ping Chen et.al.|[2611.27209](http://arxiv.org/abs/2611.27209)|null|
+|**2026-11-20**|**FM4SAR-Bench 1.0: Towards A Fair Benchmark for Evaluating Foundation Models for SAR Image Interpretation**|Mingyao Chen et.al.|[2611.27158](http://arxiv.org/abs/2611.27158)|null|
+|**2026-11-20**|**Particle picking with an earth mover's seminorm**|Dvir Moshe et.al.|[2611.27096](http://arxiv.org/abs/2611.27096)|null|
+|**2026-11-19**|**A High-Compression Transformer VAE for Efficient and Controllable 3D Medical Image Generation with Diffusion Transformers**|Bo Liu et.al.|[2611.26907](http://arxiv.org/abs/2611.26907)|null|
+|**2026-11-19**|**MambaSplit: Severity-Robust and Inference-Efficient Semantic Unmixing of Fluorescence Microscopy Image Data**|Aman Kukde et.al.|[2611.26703](http://arxiv.org/abs/2611.26703)|null|
 |**2026-11-19**|**Posterior Matching Distillation**|Hidir Yesiltepe et.al.|[2611.26629](http://arxiv.org/abs/2611.26629)|null|
 |**2026-11-19**|**AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms**|Omoruyi Atekha et.al.|[2611.26625](http://arxiv.org/abs/2611.26625)|null|
 |**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|null|
