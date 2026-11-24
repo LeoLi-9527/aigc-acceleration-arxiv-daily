@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.23
+### Automatically Updated on 2026.11.24
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,10 +21,12 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-22**|**MSBench: Benchmarking Script-Controlled Multi-Shot Text-to-Video Generation**|Tao Huang et.al.|[2611.29417](http://arxiv.org/abs/2611.29417)|null|
 |**2026-11-20**|**V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion**|Jiajun Chen et.al.|[2611.27063](http://arxiv.org/abs/2611.27063)|null|
 |**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|null|
 |**2026-11-18**|**Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention**|Zhen Huang et.al.|[2611.24479](http://arxiv.org/abs/2611.24479)|null|
 |**2026-11-18**|**Semantic-aware Contrasting with Explicitly Disentangled Representations for AI-Generated Video Detection**|Jiaquan Yu et.al.|[2611.24038](http://arxiv.org/abs/2611.24038)|null|
+|**2026-11-17**|**VidRouteBench: A Benchmark for Budgeted Video-Generation Routing**|Dayu Wang et.al.|[2611.28099](http://arxiv.org/abs/2611.28099)|null|
 |**2026-11-17**|**When a Larger Guidance Scale Repairs Text-to-Video Failures and When It Does Not**|Taewon Kang et.al.|[2611.23025](http://arxiv.org/abs/2611.23025)|null|
 |**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|null|
 |**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
@@ -483,6 +485,25 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning**|Xiwei Liu et.al.|[2611.31215](http://arxiv.org/abs/2611.31215)|null|
+|**2026-11-23**|**On-Policy Codec Distillation for Efficient All-in-One Video Generation**|Boyang Wang et.al.|[2611.31184](http://arxiv.org/abs/2611.31184)|null|
+|**2026-11-23**|**Demographic Encoding is Not Exposure: Fairness and Privacy in Chest X-ray Foundation Models**|Sahar Askari et.al.|[2611.31014](http://arxiv.org/abs/2611.31014)|null|
+|**2026-11-23**|**CineAct: Interaction-State Agents for Playable, Branching Film Generation**|Junyan Lin et.al.|[2611.30613](http://arxiv.org/abs/2611.30613)|null|
+|**2026-11-23**|**Geospatial foundation models and deep learning for climate resilience: a review of transfer, uncertainty and decision readiness**|Parastoo Farajpoor et.al.|[2611.30198](http://arxiv.org/abs/2611.30198)|null|
+|**2026-11-23**|**Model-Assisted Probability of Detection Studies for Image-Based Human Inspection**|Qizheng Xia et.al.|[2611.30032](http://arxiv.org/abs/2611.30032)|null|
+|**2026-11-23**|**When Should We Trust Medical Image Models? Evaluating Confidence Reliability under Cross-Dataset Shift**|Haoran Zhang et.al.|[2611.29955](http://arxiv.org/abs/2611.29955)|null|
+|**2026-11-23**|**Generalizable Variable-Rate Adaptation for Image Coding for Machines**|Yui Tatsumi et.al.|[2611.29914](http://arxiv.org/abs/2611.29914)|null|
+|**2026-11-23**|**Where does pancreatic lesion segmentation fail on public CT? An attenuation-stratified analysis of a duct-guided pipeline on PanTS**|Kang-Won Byun et.al.|[2611.29861](http://arxiv.org/abs/2611.29861)|null|
+|**2026-11-22**|**Rateless Lattice Codes over Fading Wiretap Channels: Finite-Length Secrecy and the Secret-Key Capacity of Degraded Sessions**|Hassan Khodaiemehr et.al.|[2611.29177](http://arxiv.org/abs/2611.29177)|null|
+|**2026-11-22**|**A Camera-Based Single-Volume, Monolithic Compton Camera**|Alex Bocchieri et.al.|[2611.29116](http://arxiv.org/abs/2611.29116)|null|
+|**2026-11-21**|**3D-EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Volumetric Brain Tumor Segmentation**|Iftakhar Hossain et.al.|[2611.29027](http://arxiv.org/abs/2611.29027)|null|
+|**2026-11-21**|**Neural Grey: Practical Vignetting Calibration from Casual Camera Rolls**|Yueze Wang et.al.|[2611.28934](http://arxiv.org/abs/2611.28934)|null|
+|**2026-11-21**|**Beyond the section plane: Robust 3D reconstruction of multiplex immunofluorescence exposes limitations of 2D spatial cell statistics**|Junming Ma et.al.|[2611.28905](http://arxiv.org/abs/2611.28905)|null|
+|**2026-11-21**|**Rate-Quality-Energy Convex Hull for High Dynamic Range Adaptive Video Streaming**|Amritha Premkumar et.al.|[2611.28817](http://arxiv.org/abs/2611.28817)|null|
+|**2026-11-21**|**US-Seg: One Reference for Universal Ultrasound Segmentation**|Chen Ma et.al.|[2611.28740](http://arxiv.org/abs/2611.28740)|null|
+|**2026-11-21**|**SemGuard: Semantics-Decoupled Watermarking for Gaussian Splatting**|Yingying Shi et.al.|[2611.28636](http://arxiv.org/abs/2611.28636)|null|
+|**2026-11-21**|**Simple Baselines for Fetal Brain Unsupervised Anomaly Detection**|Hongjia Yang et.al.|[2611.28505](http://arxiv.org/abs/2611.28505)|null|
+|**2026-11-20**|**EID-Net: Endoscopic Illumination-aware Degradation Correction Network**|Junzhi Liu et.al.|[2611.28198](http://arxiv.org/abs/2611.28198)|null|
 |**2026-11-20**|**Underwater Spectral Recovery via Multi-View Hyperspectral Imaging**|Jonathan Sterckx et.al.|[2611.27822](http://arxiv.org/abs/2611.27822)|null|
 |**2026-11-20**|**Refrain: Learning Multi-Shot Consistency from Inconsistent References for A $^2$ O Video Generation**|Hongru Yan et.al.|[2611.27806](http://arxiv.org/abs/2611.27806)|null|
 |**2026-11-20**|**Feasibility of Multifrequency Neural Network-Based Wave Inversion in Ultrasound Time-Harmonic Elastography**|Héloïse Bustin et.al.|[2611.27792](http://arxiv.org/abs/2611.27792)|null|
@@ -2491,6 +2512,9 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model**|Omar Sallam et.al.|[2611.31212](http://arxiv.org/abs/2611.31212)|null|
+|**2026-11-23**|**PsyDrift: Healthy-Reference Latent Diffusion for Anomaly Scoring in Autism Spectrum Disorder**|Yasaman Mohammadpour et.al.|[2611.30050](http://arxiv.org/abs/2611.30050)|null|
+|**2026-11-20**|**MRI-Driven Dual-Energy CT Synthesis via Conditional Denoising Diffusion Probabilistic Models for MRI-only Radiotherapy and Protontherapy**|Juan Manuel Molina-Maza Chih-Wei Chang et.al.|[2611.28294](http://arxiv.org/abs/2611.28294)|null|
 |**2026-11-17**|**Stochastic Diversity Windows: Diagnosing Noise Influence in Robotic Diffusion Sampling**|Tina Lakhani et.al.|[2611.22743](http://arxiv.org/abs/2611.22743)|null|
 |**2026-11-11**|**DroneDiffusion: Uncertainty-Guided Diffusion Path Planner for UAV Navigation**|Ivan Valuev et.al.|[2611.15277](http://arxiv.org/abs/2611.15277)|null|
 |**2026-11-10**|**Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation**|Yuchen Jiao et.al.|[2611.14328](http://arxiv.org/abs/2611.14328)|null|
