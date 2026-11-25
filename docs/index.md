@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # AIGC Acceleration for Video Generation
-### Automatically Updated on 2026.11.24
+### Automatically Updated on 2026.11.25
 Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, `Video Editing`, `Diffusion Models`, `Real-time Generation`, `Video Diffusion`, `Video Synthesis`, `Latent Diffusion`, `Video Generation Acceleration`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,10 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Teaching Time Without Losing General Retrieval: Adapting Multimodal Embeddings for Time-Sensitive Video Retrieval**|Toya Oyama et.al.|[2611.32971](http://arxiv.org/abs/2611.32971)|null|
+|**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|null|
+|**2026-11-24**|**ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds**|Qingle Liu et.al.|[2611.32649](http://arxiv.org/abs/2611.32649)|null|
+|**2026-11-24**|**SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation**|Junyi Zhang et.al.|[2611.31958](http://arxiv.org/abs/2611.31958)|null|
 |**2026-11-22**|**MSBench: Benchmarking Script-Controlled Multi-Shot Text-to-Video Generation**|Tao Huang et.al.|[2611.29417](http://arxiv.org/abs/2611.29417)|null|
 |**2026-11-20**|**V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion**|Jiajun Chen et.al.|[2611.27063](http://arxiv.org/abs/2611.27063)|null|
 |**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|null|
@@ -485,6 +489,19 @@ Current Search Keywords: `Video Generation`, `Text-to-Video`, `Image-to-Video`, 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**SHARPnP: Self-Supervised and Plug-and-Play Hyperspectral Super-Resolution from Real Noisy Unaligned Camera Measurements**|Mohamad Jouni et.al.|[2611.33032](http://arxiv.org/abs/2611.33032)|null|
+|**2026-11-24**|**Efficient Video Retrieval Augmented Generation via Token Allocation**|Ayush Barik et.al.|[2611.32938](http://arxiv.org/abs/2611.32938)|null|
+|**2026-11-24**|**Label leakage through file headers: geometry and batch confounds in public mammography datasets, and a pre-training acceptance gate**|Achraf Toufah et.al.|[2611.32899](http://arxiv.org/abs/2611.32899)|null|
+|**2026-11-24**|**LATEC: Learned Axial TEnsor Compression for High-Dimensional Scientific Data**|Hippolyte Verninas et.al.|[2611.32651](http://arxiv.org/abs/2611.32651)|null|
+|**2026-11-24**|**OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution**|Zhilu Zhang et.al.|[2611.32473](http://arxiv.org/abs/2611.32473)|null|
+|**2026-11-24**|**ViDM: Efficient and Order-Robust Parallel Visual Decision Making**|Xudong Tan et.al.|[2611.32461](http://arxiv.org/abs/2611.32461)|null|
+|**2026-11-24**|**Characterizing Datasets to Anticipate Unsupervised Domain Adaptation Performance for Radiographic Pneumonia Detection**|Iftakhar Hossain et.al.|[2611.32360](http://arxiv.org/abs/2611.32360)|null|
+|**2026-11-24**|**IncrementDET: Continual AI-Generated Music Detection via Enrollment**|Runbao Du et.al.|[2611.32023](http://arxiv.org/abs/2611.32023)|null|
+|**2026-11-24**|**SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation**|Junyi Zhang et.al.|[2611.31958](http://arxiv.org/abs/2611.31958)|null|
+|**2026-11-24**|**A Well-Posed Fourth-Order Navier-Stokes Model for Image Inpainting: Theory, Order Selection, and Stripe Decomposition**|Yiwen Dou et.al.|[2611.31777](http://arxiv.org/abs/2611.31777)|null|
+|**2026-11-23**|**Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior**|Rafael Bischof et.al.|[2611.31651](http://arxiv.org/abs/2611.31651)|null|
+|**2026-11-23**|**InterGS+: Inter-Frame Gaussian Splatting Compression with Geometry-Aware Transformer Prediction and Adaptive Residual Coding**|Muhammad Talha et.al.|[2611.31482](http://arxiv.org/abs/2611.31482)|null|
+|**2026-11-23**|**Exact Volume-Preserving Diffeomorphic Shear Splitting: Continuous-Discrete Geometric Bounds, Reversible Memory Backpropagation, and Expressivity Frontiers in Volumetric Mapping**|Alvaro Garcia-Casas et.al.|[2611.31343](http://arxiv.org/abs/2611.31343)|null|
 |**2026-11-23**|**Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning**|Xiwei Liu et.al.|[2611.31215](http://arxiv.org/abs/2611.31215)|null|
 |**2026-11-23**|**On-Policy Codec Distillation for Efficient All-in-One Video Generation**|Boyang Wang et.al.|[2611.31184](http://arxiv.org/abs/2611.31184)|null|
 |**2026-11-23**|**Demographic Encoding is Not Exposure: Fairness and Privacy in Chest X-ray Foundation Models**|Sahar Askari et.al.|[2611.31014](http://arxiv.org/abs/2611.31014)|null|
